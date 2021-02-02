@@ -27,4 +27,5 @@
     ?>
 <button type="button" class="btn btn-dark">Dark</button>
 <button type="button" class="btn btn-dark">Red</button>
+<a href = "https://www.heroku.com" target = "blank" class="btn btn-danger">Heroko.com</a>
 <?php require 'includes/footer.php' ?>
